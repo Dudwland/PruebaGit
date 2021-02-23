@@ -1,5 +1,18 @@
-<?php
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Probando</title>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+</head>
+<body>
 
-	echo "¡Hola, Mundo!";
+	
 
-?>
+	<?php
+
+		echo "¡Hola, Mundo!";
+
+	?>
+
+</body>
+</html>
