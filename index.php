@@ -11,6 +11,8 @@
 	<?php
 
 		echo "¡Hola, Mundo!";
+	
+		echo "Algo más";
 
 	?>
 
